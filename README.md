@@ -2,7 +2,7 @@
 <h3 align="center">Senior Cloud Developer | Ex-Amazon | Ex-IBM</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+%7C+Spring+Boot+%7C+AWS+%7C+Python;Senior+Cloud+Engineer+%7C+Microservices;Full-Stack+Development+%7C+Cloud+Native" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+%7C+Spring+Boot+%7C+AWS+%7C+Python;Senior+Cloud+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -69,12 +69,13 @@ Welcome to my GitHub profile! I'm a passionate engineer with strong experience i
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| [Java_Again](https://github.com/parinlkira/Java_Again) | Java fundamentals and advanced patterns | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) |
-| [Spring Security Basics](https://github.com/parinlkira/spring-security-basics) | Security implementation with Spring Boot | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring) |
-| [Virtual Bookstore](https://github.com/parinlkira/virtual-bookstore) | E-commerce platform frontend | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) |
-| [Portfolio](https://github.com/parinlkira/portfolio) | Personal portfolio website | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| [Student DBMS (Java)](https://github.com/parinlkira/student-dbms-java) | Database management system in Java | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) ![Database](https://img.shields.io/badge/DBMS-336791?style=flat-square) |
-| [Student DBMS (Python)](https://github.com/parinlkira/student-python-dbms) | Database management system in Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Database](https://img.shields.io/badge/DBMS-336791?style=flat-square) |
+| [Airline Booking Circuit Breaker](https://github.com/parinlkira/airline-booking-circuit-breaker) | Resilient airline booking service demonstrating the circuit breaker pattern | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) |
+| [Java P2P Distributed Index](https://github.com/parinlkira/java-p2p-distributed-index) | Peer-to-peer distributed indexing system in Java | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) |
+| [Spring Security Basics](https://github.com/parinlkira/spring-security-basics) | Security implementation with Spring Boot | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) |
+| [Virtual Bookstore](https://github.com/parinlkira/virtual-bookstore) | E-commerce platform frontend | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3) |
+| [Portfolio](https://github.com/parinlkira/portfolio) | Personal portfolio website | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) |
+| [Student DBMS (Java)](https://github.com/parinlkira/student-dbms-java) | Database management system in Java | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) ![Database](https://img.shields.io/badge/Database-336791?style=flat-square&logo=postgresql) |
+| [Student DBMS (Python)](https://github.com/parinlkira/student-python-dbms) | Database management system in Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Database](https://img.shields.io/badge/Database-336791?style=flat-square&logo=postgresql) |
 
 ---
 
@@ -98,4 +99,4 @@ Welcome to my GitHub profile! I'm a passionate engineer with strong experience i
 
 <p align="center"><b>⚡ Let's build something amazing together.</b></p>
 
-*Last Updated: August 28, 2026*
+*Last Updated: September 9, 2026*

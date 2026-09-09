@@ -2,7 +2,7 @@
 <h3 align="center">Senior Cloud Developer | Ex-Amazon | Ex-IBM</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+%7C+Spring+Boot+%7C+AWS+%7C+Python;Senior+Cloud+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+%7C+Spring+Boot+%7C+AWS+%7C+Python;Senior+Cloud+Engineer+%7C+Microservices+Architect+%7C+JAVA/Python+Developer;Designing+Secure%2C+Scalable%2C+High-Impact+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">

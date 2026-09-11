@@ -2,11 +2,24 @@
 <h3 align="center">Senior Cloud Developer | Ex-Amazon | Ex-IBM</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+%7C+Spring+Boot+%7C+AWS+%7C+Python;Senior+Cloud+Engineer+%7C+Microservices+Architect+%7C+JAVA/Python+Developer;Designing+Secure%2C+Scalable%2C+High-Impact+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+%7C+Spring+Boot+%7C+AWS+%7C+Python;Senior+Cloud+Engineer+building+reliable+backend+systems;Microservices+%7C+Security+%7C+Distributed+Systems;Open+to+collaboration+on+high-impact+projects" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parinlkira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=parinlkira&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parinlkira&theme=react-dark&hide_border=true&area=true" alt="Contribution graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parinlkira&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 <p align="center">
@@ -16,87 +29,59 @@
 
 ---
 
+## 🚀 About Me
+
+I build scalable, secure, and resilient cloud-native systems with a strong backend focus.
+
+- 🏢 Former Amazon Developer
+- 🏢 Former IBM Developer
+- ☁️ Core stack: **Java, Spring Boot, AWS, Python**
+- 🧩 Focus areas: **Microservices, API Security, Distributed Systems, DBMS**
+- 👯 Open to collaborating on cloud and backend-heavy products
+
+---
+
 ## 💼 Tech Stack
 
-### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-2E7D32?style=for-the-badge&logo=springsecurity&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-2E7D32?style=for-the-badge&logo=springsecurity&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1D4ED8?style=for-the-badge&logo=icloud&logoColor=white)
-![Database](https://img.shields.io/badge/Database_Management-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cloud, Architecture & Engineering Focus
-- ☁️ AWS Cloud Services (EC2, S3, Lambda, RDS, CloudFormation)
-- 🧩 Microservices & distributed systems
-- 🔐 Secure service design and implementation
-- 📊 Data-driven backend optimization
-- 🤖 AI/ML integration with Python
-- 💾 Database Design & Management (SQL, DBMS)
-- 🎨 Full-Stack Development (Frontend & Backend)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🚀 About Me
+## 🌟 Impactful Repositories
 
-Welcome to my GitHub profile! I'm a passionate engineer with strong experience in cloud architecture, enterprise application development, and modern backend engineering.
-
-- 🏢 Former Amazon Developer  
-- 🏢 Former IBM Developer  
-- 👨‍💻 Current focus: cloud-native development, scalable microservices, and intelligent automation  
-
----
-
-## 🌟 Selected Career Highlights
-
-- ✅ Architected scalable cloud solutions in enterprise environments  
-- ✅ Built resilient systems with a focus on reliability and performance  
-- ✅ Delivered high-impact backend initiatives using Java/Spring and AWS  
-- ✅ Strong expertise in secure API/service design  
-- ✅ Full-stack development capabilities spanning backend, cloud, and frontend  
-- ✅ Proven ability to lead and contribute to technical initiatives  
+| Project | Why it matters | Core Tech |
+|---|---|---|
+| [Airline Booking Circuit Breaker](https://github.com/parinlkira/airline-booking-circuit-breaker) | Demonstrates fault tolerance and graceful degradation using circuit breaker patterns in service-to-service calls. | Java, Spring Boot, Resilience patterns |
+| [Java P2P Distributed Index](https://github.com/parinlkira/java-p2p-distributed-index) | Explores distributed indexing concepts and peer coordination in a decentralized architecture. | Java, Distributed Systems |
+| [Spring Security Basics](https://github.com/parinlkira/spring-security-basics) | Practical security foundation for authentication/authorization in backend services. | Java, Spring Security |
+| [Student DBMS (Java)](https://github.com/parinlkira/student-dbms-java) | Shows strong data modeling and CRUD workflow design in a structured DBMS-style app. | Java, SQL/DBMS |
+| [Student DBMS (Python)](https://github.com/parinlkira/student-python-dbms) | Highlights portability of DBMS concepts and backend logic in Python. | Python, DBMS |
+| [Portfolio](https://github.com/parinlkira/portfolio) | Frontend presentation of projects, profile, and engineering journey. | JavaScript, React |
 
 ---
 
-## 📁 Featured Projects
+## 📌 Current Focus
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [Airline Booking Circuit Breaker](https://github.com/parinlkira/airline-booking-circuit-breaker) | Resilient airline booking service demonstrating the circuit breaker pattern | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) |
-| [Java P2P Distributed Index](https://github.com/parinlkira/java-p2p-distributed-index) | Peer-to-peer distributed indexing system in Java | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) |
-| [Spring Security Basics](https://github.com/parinlkira/spring-security-basics) | Security implementation with Spring Boot | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) |
-| [Virtual Bookstore](https://github.com/parinlkira/virtual-bookstore) | E-commerce platform frontend | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3) |
-| [Portfolio](https://github.com/parinlkira/portfolio) | Personal portfolio website | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) |
-| [Student DBMS (Java)](https://github.com/parinlkira/student-dbms-java) | Database management system in Java | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) ![Database](https://img.shields.io/badge/Database-336791?style=flat-square&logo=postgresql) |
-| [Student DBMS (Python)](https://github.com/parinlkira/student-python-dbms) | Database management system in Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Database](https://img.shields.io/badge/Database-336791?style=flat-square&logo=postgresql) |
+- Building resilient Java microservices with Spring Boot
+- Designing secure APIs and production-ready backend workflows
+- Expanding Python for backend automation and data-centric tooling
+- Contributing to reliable cloud-native architectures on AWS
 
 ---
 
-## 📌 Current Engineering Focus
+## 📫 Connect
 
-- 🔭 Building enterprise-grade Java applications with Spring Boot ecosystem  
-- 🌱 Expanding Python capabilities for DBMS and backend development  
-- 🎨 Developing responsive and modern frontend applications  
-- 👯 Open to collaborating on cloud-native, microservices, and full-stack projects  
-- 💡 Contributing toward modern, reliable, and scalable software solutions  
+- 💼 LinkedIn: [linkedin.com/in/parindalwadi](https://linkedin.com/in/parindalwadi)
+- 🔗 Portfolio: [parinlkira.github.io/portfolio](https://parinlkira.github.io/portfolio)
 
----
+<p align="center"><b>⚡ Let’s build something impactful together.</b></p>
 
-## 📫 Get In Touch
-
-- 💼 LinkedIn: [linkedin.com/in/parindalwadi](https://linkedin.com/in/parindalwadi)  
-- 🔗 Portfolio: [parinlkira.github.io/portfolio](https://parinlkira.github.io/portfolio)  
-- 📧 Open to connections via GitHub  
-
----
-
-<p align="center"><b>⚡ Let's build something amazing together.</b></p>
-
-*Last Updated: September 9, 2026*
+*Last Updated: September 11, 2026*

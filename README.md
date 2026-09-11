@@ -2,7 +2,7 @@
 <h3 align="center">Senior Cloud Developer | Ex-Amazon | Ex-IBM</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+%7C+Spring+Boot+%7C+AWS+%7C+Python;Senior+Cloud+Engineer+building+reliable+backend+systems;Microservices+%7C+Security+%7C+Distributed+Systems;Open+to+collaboration+on+high-impact+projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+%7C+Spring+Boot+%7C+AWS+%7C+Python;Senior+Cloud+Engineer;Microservices+%7C+API+Security+%7C+Distributed+Systems" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ I build scalable, secure, and resilient cloud-native systems with a strong backe
 
 | Project | Why it matters | Core Tech |
 |---|---|---|
-| [Airline Booking Circuit Breaker](https://github.com/parinlkira/airline-booking-circuit-breaker) | Demonstrates fault tolerance and graceful degradation using circuit breaker patterns in service-to-service calls. | Java, Spring Boot, Resilience patterns |
+| [Airline Booking Circuit Breaker](https://github.com/parinlkira/airline-booking-circuit-breaker) | Demonstrates fault tolerance and graceful degradation using circuit breaker patterns in service-to-service communication. | Java, Spring Boot, Resilience4j |
 | [Java P2P Distributed Index](https://github.com/parinlkira/java-p2p-distributed-index) | Explores distributed indexing concepts and peer coordination in a decentralized architecture. | Java, Distributed Systems |
 | [Spring Security Basics](https://github.com/parinlkira/spring-security-basics) | Practical security foundation for authentication/authorization in backend services. | Java, Spring Security |
 | [Student DBMS (Java)](https://github.com/parinlkira/student-dbms-java) | Shows strong data modeling and CRUD workflow design in a structured DBMS-style app. | Java, SQL/DBMS |
@@ -80,7 +80,6 @@ I build scalable, secure, and resilient cloud-native systems with a strong backe
 ## 📫 Connect
 
 - 💼 LinkedIn: [linkedin.com/in/parindalwadi](https://linkedin.com/in/parindalwadi)
-- 🔗 Portfolio: [parinlkira.github.io/portfolio](https://parinlkira.github.io/portfolio)
 
 <p align="center"><b>⚡ Let’s build something impactful together.</b></p>
 

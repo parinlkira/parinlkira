@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Parin Dalwadi</h1>
-<h3 align="center">Senior Cloud Developer | Ex-Amazon | Ex-IBM</h3>
+<h3 align="center">Senior Cloud Developer | Amazon | IBM</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+%7C+Spring+Boot+%7C+AWS+%7C+Python;Senior+Cloud+Engineer;Microservices+%7C+API+Security+%7C+Distributed+Systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+%7C+Spring+Boot+%7C+AWS+%7C+Python;Senior+Cloud+Developer;Microservices+%7C+API+Security+%7C+Distributed+Systems" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -10,16 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parinlkira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com?user=parinlkira&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parinlkira&theme=react-dark&hide_border=true&area=true" alt="Contribution graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parinlkira&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 <p align="center">
@@ -33,8 +24,8 @@
 
 I build scalable, secure, and resilient cloud-native systems with a strong backend focus.
 
-- 🏢 Former Amazon Developer
-- 🏢 Former IBM Developer
+- 🏢 AWS Cloud Developer
+- 🏢 IBM Full Stack Developer
 - ☁️ Core stack: **Java, Spring Boot, AWS, Python**
 - 🧩 Focus areas: **Microservices, API Security, Distributed Systems, DBMS**
 - 👯 Open to collaborating on cloud and backend-heavy products

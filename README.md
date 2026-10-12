@@ -2,7 +2,7 @@
 <h3 align="center">Senior Cloud Developer | Amazon | IBM</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+%7C+Spring+Boot+%7C+AWS+%7C+Python;Senior+Cloud+Developer;Microservices+%7C+API+Security+%7C+Distributed+Systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=980&lines=Java+%7C+Spring+Boot+%7C+AWS+%7C+Python;Senior+Cloud+Developer+building+resilient+backend+systems;Serverless+Workflows+%7C+Microservices+%7C+API+Security" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ I build scalable, secure, and resilient cloud-native systems with a strong backe
 - 🏢 AWS Cloud Developer
 - 🏢 IBM Full Stack Developer
 - ☁️ Core stack: **Java, Spring Boot, AWS, Python**
-- 🧩 Focus areas: **Microservices, API Security, Distributed Systems, DBMS**
+- 🧩 Focus areas: **Microservices, API Security, Serverless Workflows, Distributed Systems, DBMS**
 - 👯 Open to collaborating on cloud and backend-heavy products
 
 ---
@@ -38,11 +38,23 @@ I build scalable, secure, and resilient cloud-native systems with a strong backe
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-2E7D32?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🆕 Latest Project
+
+### [Catalog Data Quality Checker](https://github.com/parinlkira/aws-image-classification-service)
+
+A serverless AWS pipeline that audits e-commerce catalog data end to end. It reads product records from Amazon S3, classifies items, checks data-quality rules, and writes pass/fail reports back to S3.
+
+- **Architecture:** AWS Step Functions orchestrating four AWS Lambda functions
+- **Cloud & security:** Amazon S3, IAM least-privilege roles, CloudWatch Logs, CloudFormation/SAM
+- **Engineering:** Python, boto3, pytest, moto-based local AWS testing, retries, error handling, and parallel processing
+- **Outcome:** repeatable catalog-quality validation with local execution support and deployment-ready infrastructure
 
 ---
 
@@ -50,9 +62,10 @@ I build scalable, secure, and resilient cloud-native systems with a strong backe
 
 | Project | Why it matters | Core Tech |
 |---|---|---|
-| [Airline Booking Circuit Breaker](https://github.com/parinlkira/airline-booking-circuit-breaker) | Demonstrates fault tolerance and graceful degradation using circuit breaker patterns in service-to-service communication. | Java, Spring Boot, Resilience4j |
+| [Catalog Data Quality Checker](https://github.com/parinlkira/aws-image-classification-service) | Serverless catalog audit workflow that classifies products, validates data quality, and generates S3 reports. | Python, AWS Step Functions, Lambda, S3, CloudFormation |
+| [Airline Booking Circuit Breaker](https://github.com/parinlkira/airline-booking-circuit-breaker) | Demonstrates fault tolerance and graceful degradation using circuit-breaker patterns in service-to-service communication. | Java, Spring Boot, Microservices |
 | [Java P2P Distributed Index](https://github.com/parinlkira/java-p2p-distributed-index) | Explores distributed indexing concepts and peer coordination in a decentralized architecture. | Java, Distributed Systems |
-| [Spring Security Basics](https://github.com/parinlkira/spring-security-basics) | Practical security foundation for authentication/authorization in backend services. | Java, Spring Security |
+| [Spring Security Basics](https://github.com/parinlkira/spring-security-basics) | Practical security foundation for authentication and authorization in backend services. | Java, Spring Security |
 | [Student DBMS (Java)](https://github.com/parinlkira/student-dbms-java) | Shows strong data modeling and CRUD workflow design in a structured DBMS-style app. | Java, SQL/DBMS |
 | [Student DBMS (Python)](https://github.com/parinlkira/student-python-dbms) | Highlights portability of DBMS concepts and backend logic in Python. | Python, DBMS |
 | [Portfolio](https://github.com/parinlkira/portfolio) | Frontend presentation of projects, profile, and engineering journey. | JavaScript, React |
@@ -63,6 +76,7 @@ I build scalable, secure, and resilient cloud-native systems with a strong backe
 
 - Building resilient Java microservices with Spring Boot
 - Designing secure APIs and production-ready backend workflows
+- Expanding serverless AWS solutions with Step Functions, Lambda, S3, and infrastructure as code
 - Expanding Python for backend automation and data-centric tooling
 - Contributing to reliable cloud-native architectures on AWS
 
@@ -74,4 +88,4 @@ I build scalable, secure, and resilient cloud-native systems with a strong backe
 
 <p align="center"><b>⚡ Let’s build something impactful together.</b></p>
 
-*Last Updated: September 11, 2026*
+*Last Updated: October 12, 2026*
